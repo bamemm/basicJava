@@ -1,0 +1,39 @@
+* Informacion de la cancion
+    Nombre de la cancion "Love in Paris",
+    El largo de la cancion es de 2700,
+    El año es de 1969, 31 de Octubre
+    La letra es "I was walking in the old, beutiful streets of Paris when I suddedly saw you smiling...."
+
+* Seleccionar el Menu Songs
+    En el menu seleccionar Songs y darle click
+    Verificar que la pagina se cargue correctamente
+    Mensaje"Add a New Song" es desplegado
+    Los campos
+    Title, Lenght, Date, Lyrics se muestran
+    Boton Save Song
+    Liga Logout
+
+* Agregar Cancion
+    Escribir la informacion que tenemos en cada uno de los campos
+    Presionar el boton Save Song
+    Verificar que la cancion es agregada correctamente
+
+* Cancion agregada correctamente
+    Mensaje "Song successfully added" desplegado correctamente
+    Titulo de la cancion es desplegado
+    El resto de la informacion de la cancion es desplegado y es el mismo que escribiste
+    Boton de Like se muestra
+    Liga Edit this song es desplegado
+    Boton delete this song es mostrado
+    Liga Logout es desplegada
+
+* Editar Cancion
+    Se muestras los datos de cancion para editarlos
+
+* Delete Cancion
+    Verificar que la cancion se borra y un mensaje indicandolo se despliega
+
+* Agregar Like a la cancion
+    Presionar el boton Like
+    El numero en like en la cancion se incrementa
+

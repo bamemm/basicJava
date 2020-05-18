@@ -1,0 +1,23 @@
+* Obtener los datos necesarios para logearse
+    url
+    username
+    password
+
+* Verifica que la pagina de la url se muestre correctamente
+    colocar la url en el navegador y dar enter
+    la pagina se mostrara sin problemas
+
+* Logerarse
+    Dar click en el link de login
+    verificar que se muestren los campos username y passord
+    Verificar que se muestre el boton de Login
+
+* Colocar la informacion en los campos
+    Escribir en el campo username el dato que tenemos especificado para este
+    Escribir en el campo password el dato que tenemos especificado para este
+
+* Presiona el boton de Login
+    Una colocada la informacion en los campos
+    presionar el boton de login
+    Verificar que el mensaje siguiente se muestre "You are now logged in as frank"
+
