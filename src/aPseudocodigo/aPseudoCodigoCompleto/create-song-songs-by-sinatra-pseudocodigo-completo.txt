@@ -1,8 +1,21 @@
-* Informacion de la cancion
+* Prerequisitos
+    Dispositivo con acceso a internet
+    Navegador Chrome
+    username frank
+    password sinatra
+
+* Obtener Informacion de la cancion
     Nombre de la cancion "Love in Paris",
     El largo de la cancion es de 2700,
     El año es de 1969, 31 de Octubre
     La letra es "I was walking in the old, beutiful streets of Paris when I suddedly saw you smiling...."
+
+* Ingresar a la home page de Songs by Sinatra
+    Usar la url para entra a la pagina
+    Dar click a login
+    Esperar la pagina
+    llenar los campos con la informacion de user y password
+    dar click en el boton de login
 
 * Seleccionar el Menu Songs
     En el menu seleccionar Songs y darle click
@@ -29,6 +42,8 @@
 
 * Editar Cancion
     Se muestras los datos de cancion para editarlos
+    Introduce los nuevos datos en cada uno de los campos
+    presionar boton Save Song
 
 * Delete Cancion
     Verificar que la cancion se borra y un mensaje indicandolo se despliega

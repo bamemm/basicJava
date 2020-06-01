@@ -1,0 +1,12 @@
+ num_Sandwich_Jam es Cero
+ num_Sandwich_Bol es Cero
+
+ while (num_Sandwich_Jam es menor 5){
+ hacerSandwichJamon()
+ num_Sandwich_Jam más uno
+ }
+
+  while (num_Sandwich_Bol es menor 5){
+  hacerSandwichJamon()
+  num_Sandwich_Jam más uno
+  }
